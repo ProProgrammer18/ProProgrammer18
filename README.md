@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Gharge <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="30"> </h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">Third Year B.Tech I.T. student</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Web Development**
 
 - 📝 Checkout my content on instagram [https://www.instagram.com/proto_types_/](https://www.instagram.com/proto_types_/)
 

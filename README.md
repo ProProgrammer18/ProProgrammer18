@@ -2,11 +2,11 @@
 <h3 align="center">Third Year B.Tech I.T. student</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently exploring **Web Development**
 
-- 📝 Checkout my content on instagram [https://www.instagram.com/proto_types_/](https://www.instagram.com/proto_types_/)
+- 📝 Check out my content on Instagram [https://www.instagram.com/proto_types_/](https://www.instagram.com/proto_types_/)
 
-- 💬 Ask me about **C, CPP, NodeJS**
+- 💬 Ask me about **C, CPP, NodeJS, Python**
 
 - 📫 How to reach me **omgharge18@gmail.com**
 
